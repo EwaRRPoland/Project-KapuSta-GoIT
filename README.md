@@ -4,7 +4,7 @@
   * As a Scrum Master and tester, I participated in a QA project using agile SCRUM methodology with a weekly sprint period. Our main goal was comprehensive testing of the “Kapu$ta” application, a tool for tracking monthly income and expenses divided into specific categories.
   * As part of my duties, I focused on testing the accessibility of the application, in accordance with the AA standard, ensuring comfortable use of the application for the vast majority of users. I used various tools such as Wave, DevTools, and Contrast WCAG to ensure the highest quality of accessibility tests.
   * Additionally, due to the wide spectrum of target users, we conducted functional tests, portability tests on mobile devices, and usability tests for different types of recipients.
-  * Thanks to quick iterations, frequent meetings, adaptability, close cooperation, and continuous improvement, we were able to effectively deliver and improve the product in each sprint. This experience allowed me to develop project management skills and gain valuable experience in the field of software testing.
+  * Thanks to short iteration, frequent meetings, adaptability, close cooperation and continuous improvement, we were able to effectively deliver and improve the product. This experience allowed me to develop project management skills and gain valuable experience in software testing.
 
 - __Test application:__
   * [Front-end](https://kapusta-qa.netlify.app/),
